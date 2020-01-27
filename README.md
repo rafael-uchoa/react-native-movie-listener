@@ -5,6 +5,7 @@
   <br>
 </h3> 
 
+## Overview
 App developed with React Native, utilizes the OMDb API to search and list movies.
 
 To run the app:
